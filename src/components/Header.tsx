@@ -9,7 +9,7 @@ const Header = () => {
 				className="w-24px h-auto "
 				alt="yygs"
 			/>
-			<div className="w-16 h-16 border border-gray-300 rounded-lg flex items-center justify-center">
+			<div className="w-16 h-16 rounded-lg flex items-center justify-center bg-white">
 				<img
 					src={logoCart}
 					className="w-9"
