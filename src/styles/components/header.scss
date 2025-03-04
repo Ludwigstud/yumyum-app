@@ -1,0 +1,27 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	margin: 1rem;
+}
+
+.logoimg {
+	width: 64px;
+	height: 64px;
+    
+}
+
+.logocart {
+	width: 32px;
+	height: 32px;
+    
+}
+.cartContainer {
+    background-color: white;
+	width: 64px;
+	height: 64px;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    border-radius: 4px;
+}
